@@ -40,3 +40,10 @@ NeuralVaayu is engineered with a modular, decoupled three-tier architecture:
    ```bash
    git clone [https://github.com/Molugu-Suchith2006/NeuralVaayu-Spatial-AI.git](https://github.com/Molugu-Suchith2006/NeuralVaayu-Spatial-AI.git)
    cd NeuralVaayu-Spatial-AI
+
+---
+
+## 🌍 Socio-Technical Impact & SDG 9 Alignment
+**NeuralVaayu** directly aligns with **United Nations Sustainable Development Goal 9 (SDG 9)**: *Build resilient infrastructure, promote inclusive and sustainable industrialization, and foster innovation.* 
+* **Inclusive Industrialization:** By replacing traditional rigid 2D peripherals with touchless spatial interaction, NeuralVaayu advances human-computer interfaces for accessible, ergonomic, and next-generation industrial workflows.
+* **Open Innovation:** The architecture provides a reproducible, lightweight edge-AI pipeline deployable on standard hardware without heavy cloud dependencies, democratizing spatial computing research.
